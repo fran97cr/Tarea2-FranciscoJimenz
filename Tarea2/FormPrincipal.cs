@@ -19,6 +19,7 @@ namespace Tarea2
         Empleado ObjEmpleado;
         StreamReader nomina;
 
+
         public FormPrincipal()
         {
             InitializeComponent();
